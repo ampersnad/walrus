@@ -1,0 +1,25 @@
+#initially-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.fade-click {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.fade-click:hover {
+  text-decoration: underline;
+}
+
+p#walrus2 {
+  margin-top: 40px;
+}
